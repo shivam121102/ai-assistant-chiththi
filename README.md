@@ -13,6 +13,11 @@ The objective of this project is to build a simple AI assistant that can:
 - Generate appropriate responses
 - Simulate intelligent conversation
 
+## Project Preview
+
+![Screenshot](Screenshot%202025-04-27%20211926.png)
+
+![Screenshot](Screenshot%202026-03-12%20230429.png)
 ## Features
 
 - Basic AI assistant functionality
